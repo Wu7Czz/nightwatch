@@ -1,0 +1,18 @@
+{
+  "name": "e2e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nightwatch.conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^88.0.0",
+    "geckodriver": "^1.22.1",
+    "nightwatch": "^1.5.1",
+    "selenium-server": "^3.141.59"
+  },
+  "dependencies": {}
+}
